@@ -1,7 +1,6 @@
 {
   "version": "2.1",
   "url": "https://dub.sh/paietstc21",
-  "urldirect": "https://www.icloud.com/shortcuts/bc6e2779c63b40ada62ade3aaec6acf3",
   "changelog": [
     "- Les réglages sont désormais dans le raccourci, entrez le salaire et le temps de travail pour la dernière fois, même en cas de mise à jour !",
     "- Utilisateurs de la toute dernière version du raccourci \"Calcul TS/TC (retard)\", les réglages sont synchronisés entre les deux raccourcis.",
