@@ -1,14 +1,11 @@
 {
-  "version": "2.0.0",
-  "url": "https://www.icloud.com/shortcuts/bc6e2779c63b40ada62ade3aaec6acf3",
+  "version": "2.1",
+  "url": "https://dub.sh/paietstc21",
   "urldirect": "https://www.icloud.com/shortcuts/bc6e2779c63b40ada62ade3aaec6acf3",
   "changelog": [
-    "- Simplification du parcours : moins d’étapes pour plus d’efficacité",
-    "- Affichage systématique et simultané du montant brut et net",
-    "- Calcul du nombre de minutes nécessaires pour compenser une grève",
-    "- Accès direct à Demandes RH pour demander le paiement",
-    "- Menu final dynamique",
-    "- Autres améliorations invisibles à l’œil nu",
+    "- Les réglages sont désormais dans le raccourci, vous entrerez le salaire et le temps de travail pour la dernière fois, même en cas de mise à jour !",
+    "- Pour les utilisateurs de la toute dernière version du raccourci \"Calcul TS/TC (retard)\", les réglages sont synchronisés entre les deux raccourcis.",
+    "- Retrouvez tous les liens utiles dans le nouveau raccourci \"Portail Pro \" en appuyant sur \"Mes autres raccourcis\" en fin d'utilisation.\n",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
 }
