@@ -1,13 +1,11 @@
 {
-  "version": "2.2.1",
-  "url": "https://dub.sh/paietstc22",
+  "version": "2.30",
+  "url": "https://dub.sh/paietstc23",
   "changelog": [
+    "• MTS : Utilisateurs du raccourci “Calcul TS/TC (retard)”, calculez en un clic le montant des minutes gagnées depuis le début du mois ou de l'année",
+    "• Améliorations structurelles\n"
+    "v2.2",
     "• Le calcul des montants nets est affiné selon le type de contrat (merci à Martial L.8)\n",
-    "v2.1.1",
-    "• Ajout du raccourci à l’écran d’accueil",
-    "• Meilleure synchronisation des réglages entre raccourcis",
-    "• Minimum de 5 jours entre deux recherches de mise à jour (auparavant à chaque lancement). Possibilité de la forcer dans les Réglages",
-    "• Corrections mineures\n",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
 }
